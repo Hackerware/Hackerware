@@ -11,4 +11,4 @@ This repo contains relevant additional details for the video tutorials that I po
 
 My main areas of interest are writing efficient web services in Go, Laravel based indie hacker projects, and tooling related to building a homelab for self hosting your personal projects.
 
-I write code a ThinkPad T480, and use Arch Linux, Hyprland and Neovim, btw! :)
+I write code on a ThinkPad T480, and use Arch Linux, Hyprland and Neovim, btw! :)
